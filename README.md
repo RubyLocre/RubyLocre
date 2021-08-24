@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RubyLocre
+- 👀 I’m interested in youtube, pokemon. 
+- 🌱 I’m currently learning JS?
+- 💞️ I’m looking to collaborate on games mainly but honestly anything I'm trying to learn.
+- 📫 How to reach me ...
